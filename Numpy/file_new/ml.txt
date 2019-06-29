@@ -1,0 +1,17 @@
+SHA
+centralised and distributed vcs
+fork process-make another copy of our projects
+github is a cloud or  pltform while git is a software(distributed)
+linus torvalds
+we have to make local repository on our local system which is a copy of centrl repo. and 
+
+steps to make local repository:
+1.initialize(git init)
+2.add file(git add .)
+3.commit(git commit -m "first commit") wher m is our message.in this step we get an error then 
+we get 2 lines where we write our email and username.after that again we commit it to successfully exit.
+
+4.remote repo add
+5.push this on to the cloud(after this we login by github account) an check our github account
+.=current directory
+
